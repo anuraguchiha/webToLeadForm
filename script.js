@@ -10,7 +10,7 @@ function beforeSubmit(event){
         outputDate.value = formatedDate;
     } else{
         alert("Please check the reCAPTHCHA box to submit the lead");
-        event.preventDefault();
+        event.preventDefault()
     }
     
 }   
