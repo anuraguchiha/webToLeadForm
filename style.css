@@ -25,6 +25,12 @@ input{
     border-radius: 5px;
 }
 
+.g-recaptcha{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
 form {
     min-width: 300px;
     max-width: 500px;
